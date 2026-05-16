@@ -55,7 +55,7 @@ layers:
   - {t: ▽, type: trans}
   - '&studio_unlock'
   - '&bl BL_ON'
-  - {t: ▽, type: trans}
+  - RGB ON
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
